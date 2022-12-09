@@ -23,7 +23,7 @@ Yolov5를 train시키는 python 코드입니다.
 ![image](https://user-images.githubusercontent.com/90602936/206715274-535a7b3e-3e14-4fd1-9b03-4a40166cc475.png)
 
 
-## 📌설명
+## 📌상세 설명
 사용자의 전신 사진으로 옷 스타일을 분석해 어울리는 신발을 추천해주는 AI아키텍처를 구현하는 것이 목표입니다.
 
 이에 대한 기술검증을 위해 Yolov5를 DeepFashion2 데이터셋으로 학습시켜서 전신사진에서 옷을 object detection해보았습니다.
